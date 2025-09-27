@@ -3,8 +3,6 @@
 
 <div align="center">
 
-![Demo](./assets/demo.gif)
-
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-Framework-00D4FF?style=for-the-badge)
@@ -137,12 +135,6 @@ https://developer.yourservice.com
 
 ### 🧠 **Technology Stack**
 
-<div align="center">
-
-![Nebius AI](./assets/Nebius.png)
-
-</div>
-
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                📚 Documentation URL                         │
@@ -241,9 +233,6 @@ ai-agent-docs-qna-agent/
 │   ├── 🔗 MCP integration
 │   └── ⚙️ Configuration management
 ├── 📋 pyproject.toml             # Project metadata & dependencies
-├── 🖼️ assets/                    # Media and visual assets
-│   ├── demo.gif                 # Application demonstration
-│   └── Nebius.png               # AI provider logo
 ├── 📜 LICENSE                   # MIT License
 ├── 🔧 .env.example              # Environment configuration template
 └── 📖 README.md                 # Project documentation
